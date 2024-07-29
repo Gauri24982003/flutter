@@ -5,7 +5,7 @@ import "dart:async";
 
 import "package:flutter/material.dart";
 import "package:flutter1/main.dart";
-import "package:flutter1/sign_up.dart";
+
 class splashscreen extends StatefulWidget{
   
   @override
